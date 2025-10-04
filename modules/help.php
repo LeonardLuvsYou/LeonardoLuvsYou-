@@ -10,7 +10,7 @@ function help() {
 | \033[01;32mtrace --help\033[01;37m           | \033[01;33mFor more information\033[01;37m |
  -----------------------------------------------
 
-\033[01;33m Note :- \033[01;31mip-api will automatically ban any IP addresses doing over 150 requests per minute.\033[00m
+\033[01;33m Note :- \033[01;31mip-api FUCK BY LEONARDO:3.\033[00m
 
 
 EOL;
